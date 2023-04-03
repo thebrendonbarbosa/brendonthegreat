@@ -4,8 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otbrendon/)
 
-![TBrendon Barbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebrendonbarbosa
-&show_icons=true&theme=dark)
+![TBrendon Barbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebrendonbarbosa&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebrendonbarbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
