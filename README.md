@@ -6,7 +6,7 @@
 
 ![Barbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbrendonbarbosa&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonthegreat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebrendonbarbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia
 <div style="display: inline_block"><br/>
